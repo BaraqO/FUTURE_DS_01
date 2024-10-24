@@ -9,13 +9,24 @@ Rows: 891 (Individual cases)
 Columns: 12(Variables for survival prediction)
 
 ## Dataset Variables
-a) survival- Survival:	0 = No, 1 = Yes
-b) pclass- Ticket class:	1 = 1st, 2 = 2nd, 3 = 3rd
-c) sex- Sex: Male or Female	
-d) Age- Age in years	
-e) sibsp- Number of siblings / spouses aboard the Titanic	
-f) parch- Number of parents / children aboard the Titanic	
-g) ticket- Ticket number	
-h) fare- Passenger fare	
-I) cabin- Cabin number	
-j) embarked- Port of Embarkation:	C = Cherbourg, Q = Queenstown, S = Southampton
+The following is the key to the data:
+  
+  a) survival- Survival:	0 = No, 1 = Yes
+  
+  b) pclass- Ticket class:	1 = 1st, 2 = 2nd, 3 = 3rd
+  
+  c) sex- Sex: Male or Female	
+  
+  d) Age- Age in years	
+  
+  e) sibsp- Number of siblings / spouses aboard the Titanic	
+  
+  f) parch- Number of parents / children aboard the Titanic	
+  
+  g) ticket- Ticket number	
+  
+  h) fare- Passenger fare	
+  
+  I) cabin- Cabin number	
+  
+  j) embarked- Port of Embarkation:	C = Cherbourg, Q = Queenstown, S = Southampton
